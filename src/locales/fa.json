@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "سریع • مدرن • تبدیل دسته‌ای تصاویر"
+  },
+  "dropZone": {
+    "dragDrop": "تصاویر یا پوشه‌ها را اینجا بکشید و رها کنید",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "انتخاب تصاویر",
+    "selectFolder": "انتخاب پوشه"
+  },
+  "settings": {
+    "outputFormat": "فرمت خروجی",
+    "quality": "کیفیت",
+    "low": "کم",
+    "high": "زیاد",
+    "resize": "تغییر اندازه",
+    "width": "عرض",
+    "height": "ارتفاع",
+    "background": "پس‌زمینه",
+    "transparent": "شفاف",
+    "white": "سفید",
+    "black": "سیاه",
+    "custom": "سفارشی...",
+    "overwritePolicy": "سیاست بازنویسی",
+    "autoRename": "تغییر نام خودکار",
+    "replace": "جایگزینی",
+    "skip": "رد کردن",
+    "workers": "پردازشگرها",
+    "outputFolder": "پوشه خروجی",
+    "selectOutputFolder": "انتخاب پوشه خروجی...",
+    "browse": "مرور"
+  },
+  "queue": {
+    "waiting": "در انتظار",
+    "converting": "در حال تبدیل",
+    "done": "انجام شد",
+    "failed": "ناموفق",
+    "noImages": "تصویری در صف نیست",
+    "addImages": "برای شروع تصاویر اضافه کنید",
+    "imagesInQueue": "{{count}} تصویر در صف",
+    "imagesInQueue_plural": "{{count}} تصویر در صف",
+    "clearAll": "پاک کردن همه",
+    "remove": "حذف"
+  },
+  "progress": {
+    "converting": "در حال تبدیل...",
+    "complete": "تکمیل شد",
+    "failed": "{{count}} ناموفق",
+    "left": "~{{time}} باقی‌مانده"
+  },
+  "completion": {
+    "title": "تبدیل تکمیل شد",
+    "converted": "تبدیل شده",
+    "failed": "ناموفق",
+    "elapsed": "زمان سپری شده",
+    "openOutputFolder": "باز کردن پوشه خروجی",
+    "done": "تمام"
+  },
+  "actions": {
+    "cancelConversion": "لغو تبدیل",
+    "convertImages": "تبدیل تصاویر",
+    "convertCount": "تبدیل {{count}} تصویر",
+    "convertCount_plural": "تبدیل {{count}} تصویر"
+  },
+  "language": {
+    "label": "زبان",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

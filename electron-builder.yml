@@ -1,0 +1,25 @@
+appId: com.cyrusconvert.app
+productName: CyrusConvert
+directories:
+  output: release
+  buildResources: resources
+files:
+  - dist/**/*
+  - dist-electron/**/*
+  - package.json
+win:
+  target:
+    - nsis
+  icon: resources/icons/win/icon.ico
+  artifactName: ${productName}-${version}-Setup.${ext}
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: CyrusConvert
+asar: true
+asarUnpack:
+  - "**/*.node"
+  - "**/sharp/**/*"
+  - "**/@img/**/*"

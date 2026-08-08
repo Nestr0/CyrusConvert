@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "快速 • 现代 • 批量图像转换"
+  },
+  "dropZone": {
+    "dragDrop": "将图像或文件夹拖放到此处",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "选择图像",
+    "selectFolder": "选择文件夹"
+  },
+  "settings": {
+    "outputFormat": "输出格式",
+    "quality": "质量",
+    "low": "低",
+    "high": "高",
+    "resize": "调整大小",
+    "width": "宽度",
+    "height": "高度",
+    "background": "背景",
+    "transparent": "透明",
+    "white": "白色",
+    "black": "黑色",
+    "custom": "自定义...",
+    "overwritePolicy": "覆盖策略",
+    "autoRename": "自动重命名",
+    "replace": "替换",
+    "skip": "跳过",
+    "workers": "工作线程",
+    "outputFolder": "输出文件夹",
+    "selectOutputFolder": "选择输出文件夹...",
+    "browse": "浏览"
+  },
+  "queue": {
+    "waiting": "等待中",
+    "converting": "转换中",
+    "done": "完成",
+    "failed": "失败",
+    "noImages": "队列中没有图像",
+    "addImages": "添加图像以开始",
+    "imagesInQueue": "{{count}} 张图像在队列中",
+    "imagesInQueue_plural": "{{count}} 张图像在队列中",
+    "clearAll": "清除全部",
+    "remove": "移除"
+  },
+  "progress": {
+    "converting": "转换中...",
+    "complete": "已完成",
+    "failed": "{{count}} 个失败",
+    "left": "~{{time}} 剩余"
+  },
+  "completion": {
+    "title": "转换完成",
+    "converted": "已转换",
+    "failed": "失败",
+    "elapsed": "耗时",
+    "openOutputFolder": "打开输出文件夹",
+    "done": "完成"
+  },
+  "actions": {
+    "cancelConversion": "取消转换",
+    "convertImages": "转换图像",
+    "convertCount": "转换 {{count}} 张图像",
+    "convertCount_plural": "转换 {{count}} 张图像"
+  },
+  "language": {
+    "label": "语言",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Rápido • Moderno • Conversor de imágenes por lotes"
+  },
+  "dropZone": {
+    "dragDrop": "Arrastra y suelta imágenes o carpetas aquí",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Seleccionar imágenes",
+    "selectFolder": "Seleccionar carpeta"
+  },
+  "settings": {
+    "outputFormat": "Formato de salida",
+    "quality": "Calidad",
+    "low": "Baja",
+    "high": "Alta",
+    "resize": "Redimensionar",
+    "width": "Ancho",
+    "height": "Alto",
+    "background": "Fondo",
+    "transparent": "Transparente",
+    "white": "Blanco",
+    "black": "Negro",
+    "custom": "Personalizado...",
+    "overwritePolicy": "Política de sobrescritura",
+    "autoRename": "Renombrar automáticamente",
+    "replace": "Reemplazar",
+    "skip": "Omitir",
+    "workers": "Workers",
+    "outputFolder": "Carpeta de salida",
+    "selectOutputFolder": "Seleccionar carpeta de salida...",
+    "browse": "Examinar"
+  },
+  "queue": {
+    "waiting": "Esperando",
+    "converting": "Convirtiendo",
+    "done": "Listo",
+    "failed": "Fallido",
+    "noImages": "No hay imágenes en la cola",
+    "addImages": "Añade imágenes para comenzar",
+    "imagesInQueue": "{{count}} imagen en la cola",
+    "imagesInQueue_plural": "{{count}} imágenes en la cola",
+    "clearAll": "Borrar todo",
+    "remove": "Eliminar"
+  },
+  "progress": {
+    "converting": "Convirtiendo...",
+    "complete": "Completado",
+    "failed": "{{count}} fallido(s)",
+    "left": "~{{time}} restante"
+  },
+  "completion": {
+    "title": "Conversión completada",
+    "converted": "Convertido",
+    "failed": "Fallido",
+    "elapsed": "Tiempo transcurrido",
+    "openOutputFolder": "Abrir carpeta de salida",
+    "done": "Listo"
+  },
+  "actions": {
+    "cancelConversion": "Cancelar conversión",
+    "convertImages": "Convertir imágenes",
+    "convertCount": "Convertir {{count}} imagen",
+    "convertCount_plural": "Convertir {{count}} imágenes"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

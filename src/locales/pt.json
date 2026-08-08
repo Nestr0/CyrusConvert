@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Rápido • Moderno • Conversor de Imagens em Lote"
+  },
+  "dropZone": {
+    "dragDrop": "Arraste e solte imagens ou pastas aqui",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Selecionar Imagens",
+    "selectFolder": "Selecionar Pasta"
+  },
+  "settings": {
+    "outputFormat": "Formato de Saída",
+    "quality": "Qualidade",
+    "low": "Baixa",
+    "high": "Alta",
+    "resize": "Redimensionar",
+    "width": "Largura",
+    "height": "Altura",
+    "background": "Fundo",
+    "transparent": "Transparente",
+    "white": "Branco",
+    "black": "Preto",
+    "custom": "Personalizado...",
+    "overwritePolicy": "Política de Sobrescrita",
+    "autoRename": "Renomear Automaticamente",
+    "replace": "Substituir",
+    "skip": "Pular",
+    "workers": "Workers",
+    "outputFolder": "Pasta de Saída",
+    "selectOutputFolder": "Selecionar pasta de saída...",
+    "browse": "Procurar"
+  },
+  "queue": {
+    "waiting": "Aguardando",
+    "converting": "Convertendo",
+    "done": "Concluído",
+    "failed": "Falhou",
+    "noImages": "Nenhuma imagem na fila",
+    "addImages": "Adicione imagens para começar",
+    "imagesInQueue": "{{count}} imagem na fila",
+    "imagesInQueue_plural": "{{count}} imagens na fila",
+    "clearAll": "Limpar tudo",
+    "remove": "Remover"
+  },
+  "progress": {
+    "converting": "Convertendo...",
+    "complete": "Concluído",
+    "failed": "{{count}} falha(s)",
+    "left": "~{{time}} restante"
+  },
+  "completion": {
+    "title": "Conversão Concluída",
+    "converted": "Convertido",
+    "failed": "Falhou",
+    "elapsed": "Tempo Decorrido",
+    "openOutputFolder": "Abrir Pasta de Saída",
+    "done": "Concluído"
+  },
+  "actions": {
+    "cancelConversion": "Cancelar Conversão",
+    "convertImages": "Converter Imagens",
+    "convertCount": "Converter {{count}} Imagem",
+    "convertCount_plural": "Converter {{count}} Imagens"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

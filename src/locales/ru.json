@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Быстрый • Современный • Пакетное преобразование изображений"
+  },
+  "dropZone": {
+    "dragDrop": "Перетащите изображения или папки сюда",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Выбрать изображения",
+    "selectFolder": "Выбрать папку"
+  },
+  "settings": {
+    "outputFormat": "Формат вывода",
+    "quality": "Качество",
+    "low": "Низкое",
+    "high": "Высокое",
+    "resize": "Изменить размер",
+    "width": "Ширина",
+    "height": "Высота",
+    "background": "Фон",
+    "transparent": "Прозрачный",
+    "white": "Белый",
+    "black": "Чёрный",
+    "custom": "Пользовательский...",
+    "overwritePolicy": "Политика перезаписи",
+    "autoRename": "Автопереименование",
+    "replace": "Заменить",
+    "skip": "Пропустить",
+    "workers": "Потоки",
+    "outputFolder": "Папка вывода",
+    "selectOutputFolder": "Выберите папку вывода...",
+    "browse": "Обзор"
+  },
+  "queue": {
+    "waiting": "Ожидание",
+    "converting": "Преобразование",
+    "done": "Готово",
+    "failed": "Ошибка",
+    "noImages": "Нет изображений в очереди",
+    "addImages": "Добавьте изображения для начала",
+    "imagesInQueue": "{{count}} изображение в очереди",
+    "imagesInQueue_plural": "{{count}} изображений в очереди",
+    "clearAll": "Очистить всё",
+    "remove": "Удалить"
+  },
+  "progress": {
+    "converting": "Преобразование...",
+    "complete": "Завершено",
+    "failed": "{{count}} ошибок",
+    "left": "~{{time}} осталось"
+  },
+  "completion": {
+    "title": "Преобразование завершено",
+    "converted": "Преобразовано",
+    "failed": "Ошибок",
+    "elapsed": "Прошло времени",
+    "openOutputFolder": "Открыть папку вывода",
+    "done": "Готово"
+  },
+  "actions": {
+    "cancelConversion": "Отменить преобразование",
+    "convertImages": "Преобразовать изображения",
+    "convertCount": "Преобразовать {{count}} изображение",
+    "convertCount_plural": "Преобразовать {{count}} изображений"
+  },
+  "language": {
+    "label": "Язык",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

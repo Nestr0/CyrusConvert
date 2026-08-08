@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Hızlı • Modern • Toplu Görüntü Dönüştürücü"
+  },
+  "dropZone": {
+    "dragDrop": "Görüntüleri veya klasörleri buraya sürükleyip bırakın",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Görüntü Seç",
+    "selectFolder": "Klasör Seç"
+  },
+  "settings": {
+    "outputFormat": "Çıktı Formatı",
+    "quality": "Kalite",
+    "low": "Düşük",
+    "high": "Yüksek",
+    "resize": "Yeniden Boyutlandır",
+    "width": "Genişlik",
+    "height": "Yükseklik",
+    "background": "Arka Plan",
+    "transparent": "Şeffaf",
+    "white": "Beyaz",
+    "black": "Siyah",
+    "custom": "Özel...",
+    "overwritePolicy": "Üzerine Yazma Politikası",
+    "autoRename": "Otomatik Yeniden Adlandır",
+    "replace": "Değiştir",
+    "skip": "Atla",
+    "workers": "İşçiler",
+    "outputFolder": "Çıktı Klasörü",
+    "selectOutputFolder": "Çıktı klasörü seçin...",
+    "browse": "Gözat"
+  },
+  "queue": {
+    "waiting": "Bekliyor",
+    "converting": "Dönüştürülüyor",
+    "done": "Tamamlandı",
+    "failed": "Başarısız",
+    "noImages": "Kuyrukta görüntü yok",
+    "addImages": "Başlamak için görüntü ekleyin",
+    "imagesInQueue": "Kuyrukta {{count}} görüntü",
+    "imagesInQueue_plural": "Kuyrukta {{count}} görüntü",
+    "clearAll": "Tümünü Temizle",
+    "remove": "Kaldır"
+  },
+  "progress": {
+    "converting": "Dönüştürülüyor...",
+    "complete": "Tamamlandı",
+    "failed": "{{count}} başarısız",
+    "left": "~{{time}} kaldı"
+  },
+  "completion": {
+    "title": "Dönüştürme Tamamlandı",
+    "converted": "Dönüştürüldü",
+    "failed": "Başarısız",
+    "elapsed": "Geçen Süre",
+    "openOutputFolder": "Çıktı Klasörünü Aç",
+    "done": "Tamam"
+  },
+  "actions": {
+    "cancelConversion": "Dönüştürmeyi İptal Et",
+    "convertImages": "Görüntüleri Dönüştür",
+    "convertCount": "{{count}} Görüntü Dönüştür",
+    "convertCount_plural": "{{count}} Görüntü Dönüştür"
+  },
+  "language": {
+    "label": "Dil",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

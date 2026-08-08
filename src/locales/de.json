@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Schnell • Modern • Batch-Bildkonverter"
+  },
+  "dropZone": {
+    "dragDrop": "Bilder oder Ordner hierher ziehen",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Bilder auswählen",
+    "selectFolder": "Ordner auswählen"
+  },
+  "settings": {
+    "outputFormat": "Ausgabeformat",
+    "quality": "Qualität",
+    "low": "Niedrig",
+    "high": "Hoch",
+    "resize": "Größe ändern",
+    "width": "Breite",
+    "height": "Höhe",
+    "background": "Hintergrund",
+    "transparent": "Transparent",
+    "white": "Weiß",
+    "black": "Schwarz",
+    "custom": "Benutzerdefiniert...",
+    "overwritePolicy": "Überschreibungsrichtlinie",
+    "autoRename": "Automatisch umbenennen",
+    "replace": "Ersetzen",
+    "skip": "Überspringen",
+    "workers": "Worker",
+    "outputFolder": "Ausgabeordner",
+    "selectOutputFolder": "Ausgabeordner auswählen...",
+    "browse": "Durchsuchen"
+  },
+  "queue": {
+    "waiting": "Wartend",
+    "converting": "Konvertierung",
+    "done": "Fertig",
+    "failed": "Fehlgeschlagen",
+    "noImages": "Keine Bilder in der Warteschlange",
+    "addImages": "Bilder hinzufügen, um zu beginnen",
+    "imagesInQueue": "{{count}} Bild in der Warteschlange",
+    "imagesInQueue_plural": "{{count}} Bilder in der Warteschlange",
+    "clearAll": "Alle löschen",
+    "remove": "Entfernen"
+  },
+  "progress": {
+    "converting": "Konvertierung...",
+    "complete": "Abgeschlossen",
+    "failed": "{{count}} fehlgeschlagen",
+    "left": "~{{time}} verbleibend"
+  },
+  "completion": {
+    "title": "Konvertierung abgeschlossen",
+    "converted": "Konvertiert",
+    "failed": "Fehlgeschlagen",
+    "elapsed": "Vergangen",
+    "openOutputFolder": "Ausgabeordner öffnen",
+    "done": "Fertig"
+  },
+  "actions": {
+    "cancelConversion": "Konvertierung abbrechen",
+    "convertImages": "Bilder konvertieren",
+    "convertCount": "{{count}} Bild konvertieren",
+    "convertCount_plural": "{{count}} Bilder konvertieren"
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

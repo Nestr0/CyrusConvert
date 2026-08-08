@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "高速 • モダン • バッチ画像変換"
+  },
+  "dropZone": {
+    "dragDrop": "画像またはフォルダをここにドラッグ＆ドロップ",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "画像を選択",
+    "selectFolder": "フォルダを選択"
+  },
+  "settings": {
+    "outputFormat": "出力フォーマット",
+    "quality": "品質",
+    "low": "低",
+    "high": "高",
+    "resize": "サイズ変更",
+    "width": "幅",
+    "height": "高さ",
+    "background": "背景",
+    "transparent": "透明",
+    "white": "白",
+    "black": "黒",
+    "custom": "カスタム...",
+    "overwritePolicy": "上書きポリシー",
+    "autoRename": "自動リネーム",
+    "replace": "置換",
+    "skip": "スキップ",
+    "workers": "ワーカー",
+    "outputFolder": "出力フォルダ",
+    "selectOutputFolder": "出力フォルダを選択...",
+    "browse": "参照"
+  },
+  "queue": {
+    "waiting": "待機中",
+    "converting": "変換中",
+    "done": "完了",
+    "failed": "失敗",
+    "noImages": "キューに画像がありません",
+    "addImages": "画像を追加して開始",
+    "imagesInQueue": "{{count}} 件の画像がキューにあります",
+    "imagesInQueue_plural": "{{count}} 件の画像がキューにあります",
+    "clearAll": "すべてクリア",
+    "remove": "削除"
+  },
+  "progress": {
+    "converting": "変換中...",
+    "complete": "完了",
+    "failed": "{{count}} 件失敗",
+    "left": "~{{time}} 残り"
+  },
+  "completion": {
+    "title": "変換完了",
+    "converted": "変換済み",
+    "failed": "失敗",
+    "elapsed": "経過時間",
+    "openOutputFolder": "出力フォルダを開く",
+    "done": "完了"
+  },
+  "actions": {
+    "cancelConversion": "変換をキャンセル",
+    "convertImages": "画像を変換",
+    "convertCount": "{{count}} 件の画像を変換",
+    "convertCount_plural": "{{count}} 件の画像を変換"
+  },
+  "language": {
+    "label": "言語",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

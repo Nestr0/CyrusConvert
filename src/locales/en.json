@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Fast • Modern • Batch Image Converter"
+  },
+  "dropZone": {
+    "dragDrop": "Drag & drop images or folders here",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Select Images",
+    "selectFolder": "Select Folder"
+  },
+  "settings": {
+    "outputFormat": "Output Format",
+    "quality": "Quality",
+    "low": "Low",
+    "high": "High",
+    "resize": "Resize",
+    "width": "Width",
+    "height": "Height",
+    "background": "Background",
+    "transparent": "Transparent",
+    "white": "White",
+    "black": "Black",
+    "custom": "Custom...",
+    "overwritePolicy": "Overwrite Policy",
+    "autoRename": "Auto Rename",
+    "replace": "Replace",
+    "skip": "Skip",
+    "workers": "Workers",
+    "outputFolder": "Output Folder",
+    "selectOutputFolder": "Select output folder...",
+    "browse": "Browse"
+  },
+  "queue": {
+    "waiting": "Waiting",
+    "converting": "Converting",
+    "done": "Done",
+    "failed": "Failed",
+    "noImages": "No images in queue",
+    "addImages": "Add images to get started",
+    "imagesInQueue": "{{count}} image in queue",
+    "imagesInQueue_plural": "{{count}} images in queue",
+    "clearAll": "Clear all",
+    "remove": "Remove"
+  },
+  "progress": {
+    "converting": "Converting...",
+    "complete": "Complete",
+    "failed": "{{count}} failed",
+    "left": "~{{time}} left"
+  },
+  "completion": {
+    "title": "Conversion Complete",
+    "converted": "Converted",
+    "failed": "Failed",
+    "elapsed": "Elapsed",
+    "openOutputFolder": "Open Output Folder",
+    "done": "Done"
+  },
+  "actions": {
+    "cancelConversion": "Cancel Conversion",
+    "convertImages": "Convert Images",
+    "convertCount": "Convert {{count}} Image",
+    "convertCount_plural": "Convert {{count}} Images"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

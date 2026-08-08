@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "빠른 • 현대적 • 배치 이미지 변환기"
+  },
+  "dropZone": {
+    "dragDrop": "이미지 또는 폴더를 여기에 드래그 앤 드롭하세요",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "이미지 선택",
+    "selectFolder": "폴더 선택"
+  },
+  "settings": {
+    "outputFormat": "출력 형식",
+    "quality": "품질",
+    "low": "낮음",
+    "high": "높음",
+    "resize": "크기 조정",
+    "width": "너비",
+    "height": "높이",
+    "background": "배경",
+    "transparent": "투명",
+    "white": "흰색",
+    "black": "검은색",
+    "custom": "사용자 정의...",
+    "overwritePolicy": "덮어쓰기 정책",
+    "autoRename": "자동 이름 변경",
+    "replace": "바꾸기",
+    "skip": "건너뛰기",
+    "workers": "워커",
+    "outputFolder": "출력 폴더",
+    "selectOutputFolder": "출력 폴더 선택...",
+    "browse": "찾아보기"
+  },
+  "queue": {
+    "waiting": "대기 중",
+    "converting": "변환 중",
+    "done": "완료",
+    "failed": "실패",
+    "noImages": "대기열에 이미지가 없습니다",
+    "addImages": "시작하려면 이미지를 추가하세요",
+    "imagesInQueue": "{{count}}개의 이미지가 대기열에 있습니다",
+    "imagesInQueue_plural": "{{count}}개의 이미지가 대기열에 있습니다",
+    "clearAll": "모두 지우기",
+    "remove": "제거"
+  },
+  "progress": {
+    "converting": "변환 중...",
+    "complete": "완료됨",
+    "failed": "{{count}}개 실패",
+    "left": "~{{time}} 남음"
+  },
+  "completion": {
+    "title": "변환 완료",
+    "converted": "변환됨",
+    "failed": "실패",
+    "elapsed": "소요 시간",
+    "openOutputFolder": "출력 폴더 열기",
+    "done": "완료"
+  },
+  "actions": {
+    "cancelConversion": "변환 취소",
+    "convertImages": "이미지 변환",
+    "convertCount": "{{count}}개 이미지 변환",
+    "convertCount_plural": "{{count}}개 이미지 변환"
+  },
+  "language": {
+    "label": "언어",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

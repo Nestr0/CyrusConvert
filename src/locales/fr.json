@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Rapide • Moderne • Convertisseur d'images par lots"
+  },
+  "dropZone": {
+    "dragDrop": "Glissez-déposez des images ou des dossiers ici",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Sélectionner des images",
+    "selectFolder": "Sélectionner un dossier"
+  },
+  "settings": {
+    "outputFormat": "Format de sortie",
+    "quality": "Qualité",
+    "low": "Basse",
+    "high": "Haute",
+    "resize": "Redimensionner",
+    "width": "Largeur",
+    "height": "Hauteur",
+    "background": "Arrière-plan",
+    "transparent": "Transparent",
+    "white": "Blanc",
+    "black": "Noir",
+    "custom": "Personnalisé...",
+    "overwritePolicy": "Politique d'écrasement",
+    "autoRename": "Renommer automatiquement",
+    "replace": "Remplacer",
+    "skip": "Ignorer",
+    "workers": "Workers",
+    "outputFolder": "Dossier de sortie",
+    "selectOutputFolder": "Sélectionner le dossier de sortie...",
+    "browse": "Parcourir"
+  },
+  "queue": {
+    "waiting": "En attente",
+    "converting": "Conversion",
+    "done": "Terminé",
+    "failed": "Échoué",
+    "noImages": "Aucune image dans la file d'attente",
+    "addImages": "Ajoutez des images pour commencer",
+    "imagesInQueue": "{{count}} image dans la file d'attente",
+    "imagesInQueue_plural": "{{count}} images dans la file d'attente",
+    "clearAll": "Tout effacer",
+    "remove": "Supprimer"
+  },
+  "progress": {
+    "converting": "Conversion...",
+    "complete": "Terminé",
+    "failed": "{{count}} échoué(s)",
+    "left": "~{{time}} restant"
+  },
+  "completion": {
+    "title": "Conversion terminée",
+    "converted": "Converti",
+    "failed": "Échoué",
+    "elapsed": "Temps écoulé",
+    "openOutputFolder": "Ouvrir le dossier de sortie",
+    "done": "Terminé"
+  },
+  "actions": {
+    "cancelConversion": "Annuler la conversion",
+    "convertImages": "Convertir les images",
+    "convertCount": "Convertir {{count}} image",
+    "convertCount_plural": "Convertir {{count}} images"
+  },
+  "language": {
+    "label": "Langue",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}

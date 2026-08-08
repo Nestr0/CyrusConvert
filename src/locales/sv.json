@@ -1,0 +1,81 @@
+{
+  "app": {
+    "title": "CyrusConvert",
+    "subtitle": "Snabb • Modern • Batch-bildkonverterare"
+  },
+  "dropZone": {
+    "dragDrop": "Dra och släpp bilder eller mappar här",
+    "supportedFormats": "PNG, JPG, WEBP, AVIF, TIFF, BMP, GIF, SVG, HEIC",
+    "selectImages": "Välj bilder",
+    "selectFolder": "Välj mapp"
+  },
+  "settings": {
+    "outputFormat": "Utdataformat",
+    "quality": "Kvalitet",
+    "low": "Låg",
+    "high": "Hög",
+    "resize": "Ändra storlek",
+    "width": "Bredd",
+    "height": "Höjd",
+    "background": "Bakgrund",
+    "transparent": "Transparent",
+    "white": "Vit",
+    "black": "Svart",
+    "custom": "Anpassad...",
+    "overwritePolicy": "Överskrivningspolicy",
+    "autoRename": "Automatisk namnändring",
+    "replace": "Ersätt",
+    "skip": "Hoppa över",
+    "workers": "Arbetare",
+    "outputFolder": "Utdatamapp",
+    "selectOutputFolder": "Välj utdatamapp...",
+    "browse": "Bläddra"
+  },
+  "queue": {
+    "waiting": "Väntar",
+    "converting": "Konverterar",
+    "done": "Klar",
+    "failed": "Misslyckades",
+    "noImages": "Inga bilder i kön",
+    "addImages": "Lägg till bilder för att börja",
+    "imagesInQueue": "{{count}} bild i kön",
+    "imagesInQueue_plural": "{{count}} bilder i kön",
+    "clearAll": "Rensa alla",
+    "remove": "Ta bort"
+  },
+  "progress": {
+    "converting": "Konverterar...",
+    "complete": "Slutförd",
+    "failed": "{{count}} misslyckades",
+    "left": "~{{time}} kvar"
+  },
+  "completion": {
+    "title": "Konvertering slutförd",
+    "converted": "Konverterade",
+    "failed": "Misslyckades",
+    "elapsed": "Förfluten tid",
+    "openOutputFolder": "Öppna utdatamapp",
+    "done": "Klar"
+  },
+  "actions": {
+    "cancelConversion": "Avbryt konvertering",
+    "convertImages": "Konvertera bilder",
+    "convertCount": "Konvertera {{count}} bild",
+    "convertCount_plural": "Konvertera {{count}} bilder"
+  },
+  "language": {
+    "label": "Språk",
+    "en": "English",
+    "fa": "فارسی",
+    "ru": "Русский",
+    "zh": "中文",
+    "sv": "Svenska",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ja": "日本語",
+    "ko": "한국어",
+    "tr": "Türkçe",
+    "pt": "Português"
+  }
+}
