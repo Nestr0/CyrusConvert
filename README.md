@@ -45,11 +45,11 @@ A high-performance desktop application for Windows that converts images between 
 
 | Main Interface | Settings Panel |
 |:-:|:-:|
-| ![Main UI](docs/screenshots/main-ui.png) | ![Settings](docs/screenshots/settings.png) |
+| ![Main UI](screenshots/main-ui.png) | ![Settings](screenshots/settings.png) |
 
 | Conversion Progress | Completion Screen |
 |:-:|:-:|
-| ![Progress](docs/screenshots/progress.png) | ![Complete](docs/screenshots/complete.png) |
+| ![Progress](screenshots/progress.png) | ![Complete](screenshots/complete.png) |
 
 </div>
 
